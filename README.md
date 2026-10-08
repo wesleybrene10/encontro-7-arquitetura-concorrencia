@@ -73,3 +73,25 @@ Se houver vários servidores, um mutex local não será suficiente. A reserva ta
 ## 4. Conclusão
 
 Threads ajudam a atender solicitações com menor consumo de recursos, mas exigem sincronização. A exclusão mútua protege a consulta e a reserva do assento A-15, evitando que a mesma cadeira seja reservada para dois usuários.
+
+## 5. Referências
+
+ARPACI-DUSSEAU, Remzi H.; ARPACI-DUSSEAU, Andrea C. Operating systems: three easy pieces. Versão 1.10. [S. l.]: Arpaci-Dusseau Books, [s. d.]. cap. 26 e 28. Disponível em: https://pages.cs.wisc.edu/~remzi/OSTEP/. Acesso em: 8 out. 2026.
+
+MICROSOFT. About processes and threads. Microsoft Learn, 2025. Disponível em: https://learn.microsoft.com/en-us/windows/win32/procthread/about-processes-and-threads. Acesso em: 8 out. 2026.
+
+ROCHA, Leonardo. Sistemas operacionais: o modelo de processos. Londrina: Unicesumar, [s. d.]. Slides da Aula 7.
+
+## Links complementares para o Padlet
+
+### Vídeo — Bóson Treinamentos
+
+[O que são Processos e Threads](https://www.youtube.com/watch?v=JbDHLaf1c5Y)
+
+### Podcast — Café Debug
+
+[#167 Threads, Paralelismo e SO na Prática para Devs](https://open.spotify.com/episode/0VvL8hKlCbZyDKho6n3rhp)
+
+### Texto — Microsoft Learn
+
+[Processos e threads](https://learn.microsoft.com/pt-br/windows/win32/procthread/about-processes-and-threads)
