@@ -6,7 +6,9 @@ Curso: Engenharia de Software
 Disciplina: Sistemas Operacionais
 Docente: Leonardo Rocha
 Discente: Wesley Brene Batista
-RA: 25184825-2
+Discente: Gabriel castro
+Gabriel RA: 25203195-2
+Wesley RA: 25184825-2
 
 ## O CAOS DO SHOW DE ROCK
 Arquitetura e Concorrência
